@@ -1,0 +1,1 @@
+use a multiple dimensional array to store the lines 
